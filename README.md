@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 # 💫 About Me:
 👋 Hi, I’m Yuri Amani<br><br>👀 I’m interested in building full-stack web applications, particularly using **React** for the front end and **Flask** for the back end. I'm also passionate about creating meaningful user experiences and improving my skills in problem-solving through coding challenges.<br><br>🌱 I’m currently learning advanced web development concepts, strengthening my back end skills, and improving my algorithmic thinking through **Leet Code**.<br><br>💞️ I’m looking to collaborate on open-source projects or interesting web applications, especially those that involve real-time user interaction or community features.<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: When I'm not coding, I love drawing anime characters and working on my fitness goals!<br>
 
